@@ -1,6 +1,5 @@
-
 # Integração por Partes  
-  
+
 ## Integração por Partes  
   
 A integração por partes é uma técnica para resolver integrais de produtos de funções, permitindo transformar a integral original em uma forma mais simples.  
@@ -26,10 +25,14 @@ L: Funções Logarítmicas ( $\ln(x)$ )
 A: Funções Algébricas (polinomiais como $x^2$, $3x^3$, etc.)  
 T: Funções Trigonométricas ($\sin(x)$, $\cos(x)$, etc.)  
 E: Funções Exponenciais ($e^x$, $a^x$, etc.)  
-  
-## Exemplos  
-  
-### 1. Calcular a integral $\int x \ln(x) \ dx$ :
+ 
+## Exemplos
+
+---
+
+### Exemplo 1
+
+Calcular a integral $\int x \ln(x) \ dx$:
 
 Calculando os termos apropriados, temos:  
 
@@ -62,7 +65,9 @@ $$\int x \ln(x) \ dx =\frac{x^2(2 \ln(x)-1)}{4} + C$$
   
 ---  
   
-### 2. Calcular a integral $\int e^x \sin(x) \ dx$:  
+### Exemplo 2
+
+Calcular a integral $\int e^x \sin(x) \ dx$:  
   
 Calculando os termos apropriados, temos:  
   
