@@ -22,7 +22,7 @@ Para aplicar a integração por partes:
   
 Diretrizes para escolher funções adequadas para $u$ e $dv$:  
 I: Funções Inversas trigonométricas ($\sin^{-1}(x)$, $\cos^{-1}(x)$, etc.)  
-L: Funções Logarítmicas ($\ln(x)$)  
+L: Funções Logarítmicas ( $\ln(x)$ )  
 A: Funções Algébricas (polinomiais como $x^2$, $3x^3$, etc.)  
 T: Funções Trigonométricas ($\sin(x)$, $\cos(x)$, etc.)  
 E: Funções Exponenciais ($e^x$, $a^x$, etc.)  
