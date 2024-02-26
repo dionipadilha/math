@@ -37,7 +37,7 @@ where:
 **Explanation of the formula:**
 
 * **$-b/2a$:** This part accounts for the linear term ($bx$) in the equation.
-* **$±√(b^2 - 4ac)$:** This part, known as the discriminant, determines the nature of the solutions:
+* **$b^2 - 4ac$:** This part, known as the discriminant, determines the nature of the solutions:
     * **Positive discriminant:** Two real and distinct solutions.
     * **Zero discriminant:** Two real and equal solutions (repeated root).
     * **Negative discriminant:** Two complex solutions (non-real solutions).
