@@ -33,18 +33,16 @@ $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 where:
 
 * **$a$, $b$, and $c$** are the same coefficients from the standard form.
-* **±** represents the "plus or minus" sign, indicating two possible solutions.
-* **√** represents the square root.
 
 **Explanation of the formula:**
 
-* **-b/2a:** This part accounts for the linear term (bx) in the equation.
-* **±√(b^2 - 4ac):** This part, known as the discriminant, determines the nature of the solutions:
+* **$-b/2a$:** This part accounts for the linear term ($bx$) in the equation.
+* **$±√(b^2 - 4ac)$:** This part, known as the discriminant, determines the nature of the solutions:
     * **Positive discriminant:** Two real and distinct solutions.
     * **Zero discriminant:** Two real and equal solutions (repeated root).
     * **Negative discriminant:** Two complex solutions (non-real solutions).
 
-### Demonstration Example
+## Demonstration Example
 
 **Solve the equation:** 
 
@@ -52,9 +50,9 @@ $$2x^2 + 5x - 3 = 0$$
 
 **Step 1: Identify the coefficients.**
 
-* **a = 2**
-* **b = 5**
-* **c = -3**
+* **$a = 2$**
+* **$b = 5$**
+* **$c = -3$**
 
 **Step 2: Apply the quadratic formula.**
 
@@ -70,32 +68,32 @@ $$x = \frac{-5 \pm 7}{4}$$
 
 Therefore, the solutions are:
 
-* **x = 1**
-* **x = -\frac{3}{2}**
+* **$x = 1$**
+* **$x = -\frac{3}{2}$**
 
-### Common Pitfalls
+## Common Pitfalls
 
-* **Not rearranging the equation to the standard form before applying the formula.**
-* **Misinterpreting the discriminant and its implications for the solutions.**
-* **Making calculation errors while solving the formula.**
+* Not rearranging the equation to the standard form before applying the formula.
+* Misinterpreting the discriminant and its implications for the solutions.
+* Making calculation errors while solving the formula.
 
-### Limitations
+## Limitations
 
-* The quadratic formula only applies to equations where the highest power of the variable is 2.
+* The quadratic formula only applies to equations where the highest power of the variable is $2$.
 * It doesn't provide information about the behavior of the equation (e.g., vertex, positive/negative intervals) without further analysis.
 
-### Extensions
+## Extensions
 
 * Completing the square: An alternative method for solving quadratic equations.
 * The quadratic formula can be extended to solve higher-order polynomial equations with specific structures.
 
-### Resources
+## Resources
 
 * [https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/using-the-quadratic-formula](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/v/using-the-quadratic-formula)
 * [https://www.mathsisfun.com/definitions/quadratic.html](https://www.mathsisfun.com/definitions/quadratic.html)
 * [https://en.wikipedia.org/wiki/Quadratic_equation](https://en.wikipedia.org/wiki/Quadratic_equation)
 
-### Next
+## Next
 
 * Explore the concept of completing the square to solve quadratic equations.
 * Learn how to analyze the behavior of quadratic functions using their graphs and key features.
