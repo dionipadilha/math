@@ -1,12 +1,14 @@
-## Quadratic Equation
+# Quadratic Equation
 
-### Lead
+## Introduction
 
-A quadratic equation is a fundamental equation in algebra that deals with second-degree polynomials. These equations play a crucial role in various mathematical fields and real-world applications.
+A quadratic equation is a fundamental equation in algebra that deals with second-degree polynomials.
+These equations play a crucial role in various mathematical fields and real-world applications.
 
-### Main Idea
+## Main Idea
 
-In essence, a quadratic equation is an equation where the highest power of the unknown variable (usually represented by x) is 2. It can be written in the general form:
+In essence, a quadratic equation is an equation where the highest power of the unknown variable (usually represented by x) is 2.
+It can be written in the general form:
 
 $$ax^2 + bx + c = 0$$
 
@@ -16,13 +18,13 @@ where:
 
 The solutions to this equation, also known as roots or zeros, are the values of **x** that satisfy the equation.
 
-### Concepts
+## Concepts
 
 * **Standard form:** The equation is rearranged to have **ax^2** as the first term, followed by **bx** and a constant term **c**.
 * **Roots/Zeros:** The values of **x** that make the equation true, resulting in a value of 0 on the left side.
 * **Discriminant:** A part of the quadratic formula that determines the nature of the solutions. It is denoted by **b^2 - 4ac**.
 
-### Formula and Explanation
+## Formula and Explanation
 
 The **quadratic formula** provides a general solution for any quadratic equation:
 
@@ -30,7 +32,7 @@ $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 where:
 
-* **a, b, and c** are the same coefficients from the standard form.
+* **$a$, $b$, and $c$** are the same coefficients from the standard form.
 * **±** represents the "plus or minus" sign, indicating two possible solutions.
 * **√** represents the square root.
 
