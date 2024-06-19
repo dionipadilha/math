@@ -5,7 +5,7 @@ Solving quadratic equations is a fundamental skill in algebra that involves find
 #### Understanding Quadratic Equations
 
 Quadratic equations are polynomial equations of the second degree, meaning the highest exponent of the variable $x$ is 2. The general form is:
-$$ ax^2 + bx + c = 0 $$
+\[ ax^2 + bx + c = 0 \]
 
 where:
 - $a$ is the coefficient of $x^2$,
@@ -36,7 +36,7 @@ Thus, the solutions are $x = -2$ and $x = -3$.
 #### Quadratic Formula
 
 The quadratic formula is a universal method that works for all quadratic equations. The formula is:
-$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+\[ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \]
 
 To use this method, follow these steps:
 1. **Identify Coefficients:** Determine the values of $a$, $b$, and $c$ from the equation $ax^2 + bx + c = 0$.
@@ -46,14 +46,14 @@ To use this method, follow these steps:
 For example, for the equation $2x^2 + 3x - 2 = 0$:
 1. $a = 2$, $b = 3$, $c = -2$.
 2. Substitute into the formula:
-   $$ x = \frac{-3 \pm \sqrt{3^2 - 4 \cdot 2 \cdot (-2)}}{2 \cdot 2} $$
+   \[ x = \frac{-3 \pm \sqrt{3^2 - 4 \cdot 2 \cdot (-2)}}{2 \cdot 2} \]
 3. Simplify:
-   $$ x = \frac{-3 \pm \sqrt{9 + 16}}{4} $$
-   $$ x = \frac{-3 \pm \sqrt{25}}{4} $$
-   $$ x = \frac{-3 \pm 5}{4} $$
+   \[ x = \frac{-3 \pm \sqrt{9 + 16}}{4} \]
+   \[ x = \frac{-3 \pm \sqrt{25}}{4} \]
+   \[ x = \frac{-3 \pm 5}{4} \]
 4. Calculate the two solutions:
-   $$ x = \frac{2}{4} = \frac{1}{2} $$
-   $$ x = \frac{-8}{4} = -2 $$
+   \[ x = \frac{2}{4} = \frac{1}{2} \]
+   \[ x = \frac{-8}{4} = -2 \]
 
 Thus, the solutions are $x = \frac{1}{2}$ and $x = -2$.
 
@@ -73,9 +73,9 @@ For example, for the equation $x^2 + 6x + 5 = 0$:
 2. Complete the square: $x^2 + 6x + 9 = -5 + 9$ (add and subtract $9$, which is $(\frac{6}{2})^2$).
 3. Rewrite as a perfect square: $(x + 3)^2 = 4$.
 4. Solve for $x$:
-   $$ x + 3 = \pm 2 $$
-   $$ x = -3 \pm 2 $$
-   $$ x = -1 \text{ or } x = -5 $$
+   \[ x + 3 = \pm 2 \]
+   \[ x = -3 \pm 2 \]
+   \[ x = -1 \text{ or } x = -5 \]
 
 Thus, the solutions are $x = -1$ and $x = -5$.
 
