@@ -78,12 +78,3 @@ For example, for the equation $x^2 + 6x + 5 = 0$:
    $$x = -1 \text{ or } x = -5$$
 
 Thus, the solutions are $x = -1$ and $x = -5$.
-
-### Review of the Text
-
-1. **Purpose:** The purpose of this text is to explain how to solve quadratic equations using different methods.
-2. **Organization:** The text is organized from general concepts (understanding quadratic equations) to specific details (factoring, quadratic formula, completing the square).
-3. **Focus of Paragraphs:** Each paragraph focuses on a single method or idea, such as the definition of quadratic equations, the steps for factoring, using the quadratic formula, and completing the square.
-4. **Completeness:** Each method is thoroughly explained with complete information, including detailed steps and examples.
-5. **Avoiding Overload:** The text avoids overloading paragraphs with too many ideas by clearly separating the explanation of different methods.
-6. **Extensible Structure:** The text is structured in a way that allows for easy expansion, with each section being self-contained and organized under clear headings.
