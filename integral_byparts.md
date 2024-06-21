@@ -31,6 +31,7 @@ This formula helps us to transform an integral into a potentially simpler form. 
 
 ---
 1. $\int x \cos(x) \, dx$
+
 $$\begin{align*}
 u = x \quad &\Rightarrow \quad du = dx\\
 dv = \cos(x) \, dx \quad &\Rightarrow \quad v = \int \cos(x) \, dx = \sin(x)
@@ -43,6 +44,7 @@ $$\begin{align*}
 
 ---
 2. $\int x \sin(x) \, dx$
+
 $$\begin{align*}
 u = x \quad &\Rightarrow \quad du = dx\\
 dv = \sin(x) \, dx \quad &\Rightarrow \quad v = \int \sin(x) \, dx = -\cos(x)
@@ -56,6 +58,7 @@ $$\begin{align*}
 
 ---
 3. $\int \log(x) \, dx$
+
 $$\begin{align*}
 u = \log(x) \quad &\Rightarrow \quad du = \frac{1}{x} \, dx\\
 dv = dx \quad &\Rightarrow \quad v = x
