@@ -30,7 +30,7 @@ This formula helps us to transform an integral into a potentially simpler form. 
 5. $\int x^2 e^x dx$
 
 ---
-1. $\int x \cos(x) \, dx$
+1. $\int x \cos(x) dx$
 
 $$\begin{align*}
 u = x \quad &\Rightarrow \quad du = dx\\
@@ -43,7 +43,7 @@ $$\begin{align*}
 \end{align*}$$
 
 ---
-2. $\int x \sin(x) \, dx$
+2. $\int x \sin(x)\, dx$
 
 $$\begin{align*}
 u = x \quad &\Rightarrow \quad du = dx\\
