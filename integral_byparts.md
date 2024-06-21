@@ -28,22 +28,26 @@ Apply it to the given integrals:
 4. $\int e^x sin(x) dx$
 5. $\int x^2 e^x dx$
 
+---
 1. $\int x \cos(x) \, dx$
 $$u = x \quad \Rightarrow \quad du = dx$$
 $$dv = \cos(x) \, dx \quad \Rightarrow \quad v = \int \cos(x) \, dx = \sin(x)$$
 $$\int x \cos(x) \, dx = x \sin(x) - \int \sin(x) \, dx = x \sin(x) + \cos(x) + C$$
 
+---
 2. $\int x \sin(x) \, dx$
 $$u = x \quad \Rightarrow \quad du = dx$$
 $$dv = \sin(x) \, dx \quad \Rightarrow \quad v = \int \sin(x) \, dx = -\cos(x)$$
 $$\int x \sin(x) \, dx = x (-\cos(x)) - \int (-\cos(x)) \, dx = -x \cos(x) + \int \cos(x) \, dx = -x \cos(x) + \sin(x) + C$$
 
+---
 3. $\int \log(x) \, dx$
 $$u = \log(x) \quad \Rightarrow \quad du = \frac{1}{x} \, dx$$
 $$dv = dx \quad \Rightarrow \quad v = x$$
 $$\int \log(x) \, dx = x \log(x) - \int x \cdot \frac{1}{x} \, dx = x \log(x) - \int dx = x \log(x) - x + C$$
 
-5. $\int e^x \sin(x) \, dx$
+---
+4. $\int e^x \sin(x) \, dx$
 $$u = \sin(x) \quad \Rightarrow \quad du = \cos(x) \, dx$$
 $$dv = e^x \, dx \quad \Rightarrow \quad v = e^x$$
 $$\int e^x \sin(x) \, dx = e^x \sin(x) - \int e^x \cos(x) \, dx$$
@@ -54,6 +58,7 @@ $$\int e^x \sin(x) \, dx = e^x \sin(x) - e^x \cos(x) - \int e^x \sin(x) \, dx$$
 $$2 \int e^x \sin(x) \, dx = e^x (\sin(x) - \cos(x)) + C$$
 $$\int e^x \sin(x) \, dx = \frac{e^x (\sin(x) - \cos(x))}{2} + C$$
 
+---
 5. $\int x^2 e^x \, dx$
 $$u = x^2 \quad \Rightarrow \quad du = 2x \, dx$$
 $$dv = e^x \, dx \quad \Rightarrow \quad v = e^x$$
