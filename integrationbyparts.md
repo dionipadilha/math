@@ -6,7 +6,7 @@ Find the integral $\int x^2 e^x \, dx$.
 
 $$\begin{align*}
 u = x^2 \quad &\Rightarrow \quad du = 2x \, dx\\
-dv = e^x \, dx &\quad \Rightarrow \quad v = e^x 
+dv = e^x \, dx \quad &\Rightarrow \quad v = e^x 
 \end{align*}$$
 
 2. **Apply Formula**:
@@ -22,7 +22,7 @@ $$\begin{align*}
 
 $$\begin{align*}
 u = 2x \quad &\Rightarrow \quad du = 2 \, dx\\
-dv = e^x \, dx &\quad \Rightarrow \quad v = e^x
+dv = e^x \, dx \quad &\Rightarrow \quad v = e^x
 \end{align*}$$
 
 
