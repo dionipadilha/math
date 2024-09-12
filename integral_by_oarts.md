@@ -1,0 +1,12 @@
+### Integral By Parts
+- $$\int x \sin(x) \, dx$$
+- $$\int x \cos(x) \, dx$$
+- $$\int x \tan(x) \, dx$$
+- $$\int x \ln(x) \, dx$$
+- $$\int x e^x \, dx$$
+- $$\int x^2 e^x \, dx$$
+- $$\int x^3 e^x \, dx$$
+- $$\int e^x \sin(x) \, dx$$
+- $$\int e^x \ln(x) \, dx$$
+- $$\int \ln(x) \sin(x) \, dx$$
+- $$\int x^2 e^x \cos(x) \, dx$$
